@@ -1,0 +1,29 @@
+{
+    "name": "Debounce",
+    "version": "1.0.0",
+    "description": "A super simple library to debounce your inputs",
+    "keywords": "debounce",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/git-jamie-s/Debounce"
+    },
+    "authors":
+    [
+      {
+        "name": "Jamie Strachan",
+        "email": "sphericalsoft@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/git-jamie-s/Debounce",
+    "frameworks": "*",
+    "platforms": "*",
+    "examples": [
+      {
+          "name": "Basic Debounce",
+          "base": "examples",
+          "files": ["BasicDebounce.cpp"]
+      }
+    ]
+  }
